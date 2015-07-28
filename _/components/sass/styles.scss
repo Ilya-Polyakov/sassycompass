@@ -1,4 +1,5 @@
 @import "compass";
+@import "compass/reset";
 @import "susy";
 
 @import "variables";
@@ -6,3 +7,6 @@
 @import "base";
 @import "layout";
 @modules "modules";
+
+$font-primary: Merriweather, serif;
+$font-secondary: Bree, serif;
