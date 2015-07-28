@@ -6,7 +6,7 @@
 @import "mixins";
 @import "base";
 @import "layout";
-@modules "modules";
+@import "modules";
 
 $font-primary: Merriweather, serif;
 $font-secondary: Bree, serif;
