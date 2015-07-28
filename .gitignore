@@ -36,3 +36,6 @@
 ehthumbs.db
 Thumbs.db
 *.sass-cache*
+
+# ignore images folder, so it doesn't upload #
+images/
